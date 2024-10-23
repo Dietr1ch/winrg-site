@@ -1,0 +1,5 @@
+* Win RG
+
+A self-hosted version of this amusing flash OS.
+
+Uses [[https://github.com/ruffle-rs/ruffle/][Ruffle]] to run flash.
